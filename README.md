@@ -29,7 +29,8 @@
 
 
 ### Tools:
-
+  
+<div style="display: inline_block"><br>
 <img align="center" alt="Black-VisualS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 <img align="center" alt="Black-VisualC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="center" alt="Black-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
