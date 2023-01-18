@@ -44,5 +44,6 @@
     <a href = "https://www.linkedin.com/in/antonio-neto-83852023b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![blackcrisperlogo](https://user-images.githubusercontent.com/105940896/213063849-092284fe-4ddf-40b3-97f7-a3621d5a13c8.png)
+![blacklogo](https://user-images.githubusercontent.com/105940896/213065312-af2b774c-1e49-41b2-a1c6-9785b5c283ca.jpg)
+
 
