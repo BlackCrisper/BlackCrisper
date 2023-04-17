@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/BlackCrisper">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BlackCrisper&theme=trasparent&show_icons=true" /> 
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCrisper&layout=compact" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BlackCrisper&theme=trasparent&show_icons=true" /> 
+  <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCrisper&layout=compact" />
 </div>
 
 
