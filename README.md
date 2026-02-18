@@ -1,69 +1,58 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Antônio+Carlos;Industrial+Automation+%26+Software+Developer;Building+Smart+Systems+for+Industry;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+# Antônio Carlos  
+
+Industrial Automation & Software Developer  
 
 ---
 
-# 🚀 Antônio Carlos  
+## Professional Summary  
 
-### Industrial Automation & Software Development
+Technology professional with a background in **Systems Development and Industrial Automation**, currently working in industrial environments with a focus on:
 
-I work at the intersection of **industrial automation and modern software development**, building systems that connect machines, data and people.
+- Process optimization  
+- Automation system integration  
+- Industrial monitoring  
+- Web-based management systems  
 
----
-
-## 🧠 About Me  
-
-🎓 Systems Development Technician  
-🎓 Studying Analysis and Systems Development  
-🎓 Studying Industrial Automation  
-
-🏭 Currently working with industrial automation, focusing on:
-- Process monitoring  
-- System integration  
-- Industrial data analysis  
-- Web-based control systems  
-
-🔍 Main Focus:
-- Industry 4.0
-- Smart factories
-- Industrial IoT
-- Farm & Industrial Management Systems
+Strong interest in Industry 4.0, IoT and intelligent management platforms.
 
 ---
 
-## 🛠️ Tech Stack  
+## Education  
 
-### 💻 Backend & Systems
-- C#
-- .NET / .NET Core
-- SQL Server
-- C
-
-### 🌐 Web
-- JavaScript
-- HTML5
-- CSS3
-
-### ⚙️ Embedded & Automation
-- Arduino
-- Industrial logic & control systems
+- Technical Degree in Systems Development  
+- Undergraduate in Analysis and Systems Development  
+- Undergraduate in Industrial Automation  
 
 ---
 
-## 📌 Featured Projects
+## Technical Skills  
 
-- 🚚 Real-Time Driver Tracking System (Web + Mobile)
-- 🌾 Smart Farm Management Platform
-- 🏭 Industrial Monitoring Dashboard
-- 📊 Production Data Analytics Tools
+### Programming  
+C#, C, JavaScript  
+
+### Frameworks & Technologies  
+.NET / .NET Core  
+SQL Server  
+HTML5 / CSS3  
+
+### Industrial & Embedded  
+Arduino  
+Automation logic  
+Industrial monitoring systems  
 
 ---
 
-## 🎯 My Mission  
+## Professional Experience  
 
-To bridge the gap between **industrial automation and intelligent software**, creating scalable and efficient systems for real-world environments.
+Experience in industrial automation environment, contributing to:
+
+- Integration between industrial equipment and software platforms  
+- Development of internal monitoring systems  
+- Process data organization and reporting  
+- Support for automation and control operations  
 
 ---
 
-## 🌐 Connect with Me  
+## Career Objective  
 
-LinkedIn | Instagram | Discord | Email
+To grow as a professional in industrial technology, focusing on high-performance automation systems integrated with modern software solutions.
