@@ -1,58 +1,55 @@
-# Antônio Carlos  
-
-Industrial Automation & Software Developer  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Antônio+Carlos;Industrial+Automation+Builder;Future+Industry+4.0+Engineer;Smart+Systems+Developer)](https://git.io/typing-svg)
 
 ---
 
-## Professional Summary  
+# 👨‍💻 Antônio Carlos  
 
-Technology professional with a background in **Systems Development and Industrial Automation**, currently working in industrial environments with a focus on:
+### Building the Future of Smart Industry  
 
-- Process optimization  
-- Automation system integration  
-- Industrial monitoring  
-- Web-based management systems  
-
-Strong interest in Industry 4.0, IoT and intelligent management platforms.
+I don’t just write code.  
+I build systems that connect **machines, data and intelligence**.
 
 ---
 
-## Education  
+## 🔥 What I Do  
 
-- Technical Degree in Systems Development  
-- Undergraduate in Analysis and Systems Development  
-- Undergraduate in Industrial Automation  
-
----
-
-## Technical Skills  
-
-### Programming  
-C#, C, JavaScript  
-
-### Frameworks & Technologies  
-.NET / .NET Core  
-SQL Server  
-HTML5 / CSS3  
-
-### Industrial & Embedded  
-Arduino  
-Automation logic  
-Industrial monitoring systems  
+🏭 Industrial Automation  
+🌐 Web System Development  
+📊 Data Monitoring & Analytics  
+⚙️ Embedded Systems  
+🚀 Smart Management Platforms  
 
 ---
 
-## Professional Experience  
+## 🧠 Areas of Expertise  
 
-Experience in industrial automation environment, contributing to:
-
-- Integration between industrial equipment and software platforms  
-- Development of internal monitoring systems  
-- Process data organization and reporting  
-- Support for automation and control operations  
+- Industrial + Web Integration  
+- Real-time Monitoring Systems  
+- IoT & Smart Environments  
+- Farm & Production Management Systems  
+- Automation Dashboards  
 
 ---
 
-## Career Objective  
+## 🛠️ Core Technologies  
 
-To grow as a professional in industrial technology, focusing on high-performance automation systems integrated with modern software solutions.
+C# • .NET • SQL Server • JavaScript • C • Arduino  
+
+---
+
+## 🚀 Current Focus  
+
+- Industry 4.0  
+- Intelligent dashboards  
+- Industrial system architecture  
+- Scalable automation solutions  
+
+---
+
+## 🎯 Long-Term Vision  
+
+To become a reference in **intelligent industrial systems**, merging software engineering with automation technology.
+
+---
+
+“Code that talks to machines changes the world.”
