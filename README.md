@@ -1,55 +1,72 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Antônio+Carlos;Industrial+Automation+Builder;Future+Industry+4.0+Engineer;Smart+Systems+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Antônio+Carlos;FullStack+Developer;Systems+Architecture+Enthusiast;Building+Scalable+Web+Solutions)](https://git.io/typing-svg)
 
 ---
 
 # 👨‍💻 Antônio Carlos  
 
-### Building the Future of Smart Industry  
+### FullStack Developer | Systems Development
 
-I don’t just write code.  
-I build systems that connect **machines, data and intelligence**.
-
----
-
-## 🔥 What I Do  
-
-🏭 Industrial Automation  
-🌐 Web System Development  
-📊 Data Monitoring & Analytics  
-⚙️ Embedded Systems  
-🚀 Smart Management Platforms  
+I build scalable, efficient and real-world software solutions — focusing on **backend architecture, system integration and modern web applications**.
 
 ---
 
-## 🧠 Areas of Expertise  
-
-- Industrial + Web Integration  
-- Real-time Monitoring Systems  
-- IoT & Smart Environments  
-- Farm & Production Management Systems  
-- Automation Dashboards  
-
----
-
-## 🛠️ Core Technologies  
-
-C# • .NET • SQL Server • JavaScript • C • Arduino  
+<div align="center">
+  <a href="https://github.com/BlackCrisper">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BlackCrisper&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCrisper&layout=compact&langs_count=8&theme=transparent"/>
+  </a>
+</div>
 
 ---
 
-## 🚀 Current Focus  
+## 🚀 About Me  
 
-- Industry 4.0  
-- Intelligent dashboards  
-- Industrial system architecture  
-- Scalable automation solutions  
+🎓 Systems Development Technician  
+🎓 Undergraduate in Analysis and Systems Development  
+
+💼 Experience in building:
+- Web-based management systems  
+- Monitoring platforms  
+- RESTful APIs  
+- Database-driven applications  
+- Real-time dashboards  
+
+🔎 Strong interest in:
+- Backend architecture  
+- Clean code & scalability  
+- FullStack development  
+- System performance optimization  
 
 ---
 
-## 🎯 Long-Term Vision  
+## 🛠️ Tech Stack  
 
-To become a reference in **intelligent industrial systems**, merging software engineering with automation technology.
+### 💻 Backend  
+C# • .NET • .NET Core • SQL Server  
+
+### 🌐 Frontend  
+JavaScript • HTML5 • CSS3  
+
+### ⚙️ Additional Knowledge  
+C • Arduino • System integration  
 
 ---
 
-“Code that talks to machines changes the world.”
+## 📌 Featured Projects  
+
+- 🚚 Route & Driver Monitoring Platform  
+- 📊 Industrial Data Dashboard  
+- 🌾 Smart Management System  
+- 🧾 Custom Web Management Systems  
+
+---
+
+## 🧠 Development Philosophy  
+
+> Build systems that are maintainable, scalable and ready for real-world challenges.
+
+---
+
+## 🌐 Connect With Me  
+
+LinkedIn • Instagram • Email
